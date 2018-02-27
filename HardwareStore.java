@@ -583,7 +583,6 @@ public class HardwareStore implements Serializable {
                 break;
             }
         }
-
         return index;
     }
 
